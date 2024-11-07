@@ -1,3 +1,8 @@
+# Riders Online Network Dolphin Fork
+The build process for this fork is the same as mainline dolphin. Instructions are below.
+
+Code is based on existing projects such as project Slippi and Brawlback. Since this is based off of the game "Sonic Riders" for the GameCube, there may be differences in how netcode is handled due to the game being entirely different than any sort of fighting game. This is highly experimental as of now.
+
 # Dolphin - A GameCube and Wii Emulator
 
 [Homepage](https://dolphin-emu.org/) | [Project Site](https://github.com/dolphin-emu/dolphin) | [Buildbot](https://dolphin.ci/) | [Forums](https://forums.dolphin-emu.org/) | [Wiki](https://wiki.dolphin-emu.org/) | [GitHub Wiki](https://github.com/dolphin-emu/dolphin/wiki) | [Issue Tracker](https://bugs.dolphin-emu.org/projects/emulator/issues) | [Coding Style](https://github.com/dolphin-emu/dolphin/blob/master/Contributing.md) | [Transifex Page](https://app.transifex.com/dolphinemu/dolphin-emu/dashboard/)
